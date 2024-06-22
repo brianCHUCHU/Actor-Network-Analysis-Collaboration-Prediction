@@ -1,0 +1,21 @@
+# general
+scikit-learn
+networkx
+
+# for SEAL and GCN
+torch
+torch-geometric
+node2vec
+torch-scatter
+torch-sparse
+
+# for EGES
+tensorflow
+keras
+easydict
+xgboost
+
+# for Demo
+gradio
+adjustText
+pillow
