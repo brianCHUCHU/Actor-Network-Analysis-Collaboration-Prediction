@@ -34,11 +34,10 @@ We used AUC as the model evaluation metric.
 
 Contribution
 -----------
-| Contributor | Work |
-|-------------|------|
-| *Jih-Ming Bai* | Problem Formulation, Model, Experiment and Analysis |
-| *Cheng-Yu Kuan* | Literature Review, Gradio Demo   |
-| *Po-Yen Chu*    | EGES Model and Experiment       |
-| *Shang-Qing Su* | Data Collection, Report Delivery |
-| *Chia-Shan Li*  | Data Collection, Report Delivery |
-
+| **ID**       | **Member**       | **Work**                                       |
+|--------------|------------------|------------------------------------------------|
+| R11725041    | Jih-Ming Bai     | Literature Research, Models and Experiment     |
+| R12725028    | Cheng-Yu Kuan    | Literature Research, Demo                      |
+| B10704031    | Po-Yen Chu       | Literature Research, EGES (Model Building, Experiment) |
+| B10704096    | Shang-Qing Su    | Literature Research, Data Collection           |
+| B10704051    | Chia-Shan Li     | Literature Research, Data Collection, Slides   |
