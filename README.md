@@ -4,8 +4,8 @@ This is a student Term Project in `Social Media Analysis` by Prof. Chih-Ping Wei
 
 ## Quick Links
 
-- [Social Media Analysis Term Project](https://github.com/brianCHUCHU/Social_Advertisement_Recommendation_System/blob/main/IRTM%20Term%20Project.pdf): For detailed documentation in formal PDF format.
-- [Slides](): Presentation slides.
+- [Social Media Analysis Term Project](https://github.com/brianCHUCHU/Actor-Network-Analysis-Collaboration-Prediction/blob/main/Social_Media_Analysis_Term_Project.pdf): For detailed documentation in formal PDF format.
+- [Slides](https://github.com/brianCHUCHU/Actor-Network-Analysis-Collaboration-Prediction/blob/main/Social_Media_Analysis_Term_Project_Slides.pdf): Presentation slides.
 
 ## Brief Description
 
